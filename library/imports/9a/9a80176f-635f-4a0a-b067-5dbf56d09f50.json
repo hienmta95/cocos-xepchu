@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "level_select",
+    "texture": "ff6bc799-fd23-403f-8aaa-ebedf53af371",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      142,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "symbol_bg7",
+    "texture": "6541ad54-a846-455f-8c28-fc64596b989b",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      93,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

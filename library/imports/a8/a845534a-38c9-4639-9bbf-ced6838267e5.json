@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avatar_boder",
+    "texture": "602660b1-2dd2-44ae-b3d4-96346051ca33",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      146,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      145
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
